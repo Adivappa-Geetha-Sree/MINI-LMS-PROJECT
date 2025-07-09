@@ -1,0 +1,13 @@
+{
+  "name": "LMS App",
+  "short_name": "LMS",
+  "start_url": ".",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ]
+}
